@@ -1,5 +1,6 @@
 # 🎬 Netflix Dataset Analysis 📊
 
+## Submitted By:
 👨‍💻 **Name:** Majid Qurashi  
 🏫 **College:** Government College of Engineering & Technology, Safapora Kashmir  
 💻 **Branch:** Computer Science & Engineering  
