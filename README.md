@@ -1,0 +1,2 @@
+# VOIS_AICTE_Oct2025_MajorProject_MajidYaseenQurashi
+Major Project for AICTE VOIS Conversational Data Analysis Internship
