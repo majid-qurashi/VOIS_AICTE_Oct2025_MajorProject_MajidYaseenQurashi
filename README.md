@@ -31,7 +31,7 @@ The goal is to provide **strategic insights** for content acquisition and produc
 
 ## 🛠️ Tech Stack  
 **Languages & Libraries:** Python 🐍, Pandas, NumPy, Matplotlib, Seaborn
-**Tools:** Jupyter Notebook 📓, VS Code 🖥️  
+**Tools:**  Github, VS Code 🖥️  
 
 ---
 
